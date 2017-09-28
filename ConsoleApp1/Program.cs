@@ -9,7 +9,7 @@ namespace HDSpecs
         {
             Properties props = new Properties();
             props.runCommand();
-            props.printSpecs();
+           // props.printSpecs();
         }
     }
 }
